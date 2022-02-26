@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/flashcardQ"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:gravity="center"
+        android:text="Who made the 2004 album The College Dropout?"
+        android:textSize="40sp"
+        android:background="#A6D04B"
+        />
+
+    <TextView
+        android:id="@+id/flashcardA"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="#DEA414"
+        android:gravity="center"
+        android:text="Kanye West"
+        android:textSize="40sp"
+        android:visibility="invisible" />
+
+</RelativeLayout>
