@@ -8,7 +8,7 @@ Shows a flash card with a question and answer that will filp when you click it
 ### App Walk-though
 
 
-<img src="https://recordit.co/LCQXcrQ5fU" width=200><br>
+<img src="http://g.recordit.co/LCQXcrQ5fU.gif" width=200><br>
 
 
 ## Required
